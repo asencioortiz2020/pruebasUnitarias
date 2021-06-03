@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\Alumno_ASEOR\Alumno_ASEOR\bin\Debug\Alumno_ASEOR.dll
+C:\Users\USUARIO\Desktop\Alumno_ASEOR\Alumno_ASEOR\bin\Debug\Alumno_ASEOR.pdb
+C:\Users\USUARIO\Desktop\Alumno_ASEOR\Alumno_ASEOR\obj\Debug\Alumno_ASEOR.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Alumno_ASEOR\Alumno_ASEOR\obj\Debug\Alumno_ASEOR.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Alumno_ASEOR\Alumno_ASEOR\obj\Debug\Alumno_ASEOR.dll
+C:\Users\USUARIO\Desktop\Alumno_ASEOR\Alumno_ASEOR\obj\Debug\Alumno_ASEOR.pdb
